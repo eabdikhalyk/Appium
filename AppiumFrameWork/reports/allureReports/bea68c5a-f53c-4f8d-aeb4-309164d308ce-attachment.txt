@@ -1,0 +1,4 @@
+Before a Class -------
+
+setUp method, start Before a method
+After a method

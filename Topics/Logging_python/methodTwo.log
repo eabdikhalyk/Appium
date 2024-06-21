@@ -1,0 +1,5 @@
+29/04/24 05:05:53 PM Monday : methodTwo : CRITICAL : This is  a critical 2
+29/04/24 05:05:53 PM Monday : methodTwo : ERROR : This is a error 2
+29/04/24 05:05:53 PM Monday : methodTwo : WARNING : This is a warning 2
+29/04/24 05:05:53 PM Monday : methodTwo : INFO : This is a info 2
+29/04/24 05:05:53 PM Monday : methodTwo : DEBUG : This is a debug 2

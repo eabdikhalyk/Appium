@@ -1,0 +1,1 @@
+[32mINFO    [0m BasePage:BasePage.py:78 Send text on element found with locatorType: text and with locatorValue: Enter Name

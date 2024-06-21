@@ -1,0 +1,10 @@
+29/04/24 07:16:44 AM: CRITICAL: This is critical
+29/04/24 07:16:44 AM: ERROR: This is error
+29/04/24 07:16:44 AM: WARNING: This is warning
+29/04/24 07:16:44 AM: INFO: This is info
+29/04/24 07:16:44 AM: DEBUG: This is a Debug
+29/04/24 07:18:52 AM Monday: CRITICAL: This is critical
+29/04/24 07:18:52 AM Monday: ERROR: This is error
+29/04/24 07:18:52 AM Monday: WARNING: This is warning
+29/04/24 07:18:52 AM Monday: INFO: This is info
+29/04/24 07:18:52 AM Monday: DEBUG: This is a Debug

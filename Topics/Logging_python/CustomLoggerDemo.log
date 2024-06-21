@@ -1,0 +1,5 @@
+29/04/24 05:05:53 PM Monday : CustomLoggerDemo : CRITICAL : This is  a critical 1
+29/04/24 05:05:53 PM Monday : CustomLoggerDemo : ERROR : This is a error 1
+29/04/24 05:05:53 PM Monday : CustomLoggerDemo : WARNING : This is a warning 1
+29/04/24 05:05:53 PM Monday : CustomLoggerDemo : INFO : This is a info 1
+29/04/24 05:05:53 PM Monday : CustomLoggerDemo : DEBUG : This is a debug 1

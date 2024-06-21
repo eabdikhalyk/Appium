@@ -1,0 +1,122 @@
+27/05/24 06:11:58 AM Monday : <module> : INFO : Launch App
+27/05/24 06:44:01 AM Monday : <module> : INFO : Launch App
+27/05/24 06:55:47 AM Monday : <module> : INFO : Launch App
+27/05/24 06:55:47 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:10:19 AM Monday : <module> : INFO : Launch App
+27/05/24 07:10:19 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:10:19 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:10:19 AM Monday : BasePage : INFO : Unable send text to element not found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:12:46 AM Monday : <module> : INFO : Launch App
+27/05/24 07:12:46 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:12:46 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:12:48 AM Monday : BasePage : INFO : Send text on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Et2
+27/05/24 07:15:29 AM Monday : <module> : INFO : Launch App
+27/05/24 07:15:29 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:15:29 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:15:31 AM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:23:51 AM Monday : <module> : INFO : Launch App
+27/05/24 07:23:51 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:23:51 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:23:53 AM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:25:55 AM Monday : <module> : INFO : Launch App
+27/05/24 07:25:55 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:25:55 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:25:57 AM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:27:14 AM Monday : <module> : INFO : Launch App
+27/05/24 07:27:14 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:27:14 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:27:16 AM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:27:41 AM Monday : <module> : INFO : Launch App
+27/05/24 07:27:41 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:27:41 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:27:43 AM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:27:43 AM Monday : BasePage : INFO : Screenshot save to Path: ../screenshots/FirstScreen_2705%y07.png
+27/05/24 07:28:17 AM Monday : <module> : INFO : Launch App
+27/05/24 07:28:17 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:28:17 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:28:19 AM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:28:20 AM Monday : BasePage : INFO : Screenshot save to Path: ../screenshots/FirstScreen_270524072819.png
+27/05/24 07:28:46 AM Monday : <module> : INFO : Launch App
+27/05/24 07:28:46 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:28:46 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:28:48 AM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:33:41 AM Monday : <module> : INFO : Launch App
+27/05/24 07:33:41 AM Monday : BasePage : INFO : Element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs is displayed
+27/05/24 07:33:41 AM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+27/05/24 07:33:43 AM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+27/05/24 07:33:44 AM Monday : BasePage : INFO : Screenshot save to Path: ../screenshots/FirstScreen_270524073343.png
+03/06/24 07:27:37 PM Monday : <module> : INFO : Launch App
+03/06/24 07:27:37 PM Monday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+03/06/24 07:27:38 PM Monday : BasePage : INFO : Element found with locatorType: text and with locatorValue: Contact Us form is displayed
+03/06/24 07:27:39 PM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+03/06/24 07:27:40 PM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Email
+03/06/24 07:27:42 PM Monday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Address
+03/06/24 07:27:43 PM Monday : BasePage : INFO : Send text on element found with locatorType: index and with locatorValue: 4
+03/06/24 07:27:44 PM Monday : BasePage : INFO : Clicked on element found with locatorType: text and with locatorValue: SUBMIT
+04/06/24 04:19:57 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+04/06/24 04:19:58 PM Tuesday : BasePage : INFO : Element found with locatorType: text and with locatorValue: Contact Us form is displayed
+04/06/24 04:19:59 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+04/06/24 04:20:00 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Email
+04/06/24 04:20:02 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Address
+04/06/24 04:20:03 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: index and with locatorValue: 4
+04/06/24 04:20:04 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: text and with locatorValue: SUBMIT
+04/06/24 04:39:27 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+04/06/24 04:39:28 PM Tuesday : BasePage : INFO : Element found with locatorType: text and with locatorValue: Contact Us form is displayed
+04/06/24 04:39:29 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+04/06/24 04:39:30 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Email
+04/06/24 04:39:31 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Address
+04/06/24 04:39:33 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: index and with locatorValue: 4
+04/06/24 04:39:34 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: text and with locatorValue: SUBMIT
+04/06/24 04:40:16 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+04/06/24 04:40:18 PM Tuesday : BasePage : INFO : Element found with locatorType: text and with locatorValue: Contact Us form is displayed
+04/06/24 04:40:18 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+04/06/24 04:40:19 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Email
+04/06/24 04:40:21 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Address
+04/06/24 04:40:22 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: index and with locatorValue: 4
+04/06/24 04:40:23 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: text and with locatorValue: SUBMIT
+04/06/24 04:42:09 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+04/06/24 04:42:11 PM Tuesday : BasePage : INFO : Element found with locatorType: text and with locatorValue: Contact Us form is displayed
+04/06/24 04:42:11 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+04/06/24 04:42:13 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Email
+04/06/24 04:42:14 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Address
+04/06/24 04:42:15 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: index and with locatorValue: 4
+04/06/24 04:42:16 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: text and with locatorValue: SUBMIT
+04/06/24 04:45:26 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+04/06/24 04:45:27 PM Tuesday : BasePage : INFO : Element found with locatorType: text and with locatorValue: Contact Us form is displayed
+04/06/24 04:45:28 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+04/06/24 04:45:29 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Email
+04/06/24 04:45:30 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Address
+04/06/24 04:45:31 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: index and with locatorValue: 4
+04/06/24 04:45:32 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: text and with locatorValue: SUBMIT
+04/06/24 04:47:11 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+04/06/24 04:47:12 PM Tuesday : BasePage : INFO : Element found with locatorType: text and with locatorValue: Contact Us form is displayed
+04/06/24 04:47:13 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+04/06/24 04:47:14 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Email
+04/06/24 04:47:15 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Address
+04/06/24 04:47:17 PM Tuesday : BasePage : INFO : Send text on element found with locatorType: index and with locatorValue: 4
+04/06/24 04:47:18 PM Tuesday : BasePage : INFO : Clicked on element found with locatorType: text and with locatorValue: SUBMIT
+06/06/24 09:40:03 AM Thursday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+06/06/24 09:40:04 AM Thursday : BasePage : INFO : Element found with locatorType: text and with locatorValue: Contact Us form is displayed
+06/06/24 09:40:05 AM Thursday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Name
+06/06/24 11:24:29 AM Thursday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Login
+06/06/24 11:24:31 AM Thursday : BasePage : INFO : Send text on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Et4
+06/06/24 11:24:58 AM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
+06/06/24 02:22:55 PM Thursday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Login
+06/06/24 02:22:57 PM Thursday : BasePage : INFO : Send text on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Et4
+06/06/24 02:23:22 PM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
+06/06/24 02:24:29 PM Thursday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Login
+06/06/24 02:24:31 PM Thursday : BasePage : INFO : Send text on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Et4
+06/06/24 02:24:57 PM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
+06/06/24 02:29:02 PM Thursday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Login
+06/06/24 02:29:03 PM Thursday : BasePage : INFO : Send text on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Et4
+06/06/24 02:29:29 PM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
+06/06/24 02:37:20 PM Thursday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Login
+06/06/24 02:37:21 PM Thursday : BasePage : INFO : Send text on element found with locatorType: text and with locatorValue: Enter Email
+06/06/24 02:37:48 PM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
+06/06/24 02:41:03 PM Thursday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Login
+06/06/24 02:41:23 PM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: text and with locatorValue: 3
+06/06/24 02:41:49 PM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
+06/06/24 02:42:37 PM Thursday : BasePage : INFO : Clicked on element found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Login
+06/06/24 02:42:37 PM Thursday : BasePage : INFO : Locator value 3 not found
+06/06/24 02:42:37 PM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: 3 and with locatorValue: 3
+06/06/24 02:43:03 PM Thursday : BasePage : INFO : Unable send text to element not found with locatorType: id and with locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
