@@ -1,4 +1,4 @@
- 1) pytest --alluredir='C:\Users\Yerkebulan\Desktop\projects\Lab\AppiumLearn\AppiumFrameWork\reports\allureReports' -v -s ContractUsFormTest.
+ 1) pytest --alluredir='..\reports\allureReports' -v -s ContractUsFormTest.
 py
-2) allure serve C:\Users\Yerkebulan\Desktop\projects\Lab\AppiumLearn\AppiumFrameWork\reports\allureReports
+2) allure serve ..\reports\allureReports
 
